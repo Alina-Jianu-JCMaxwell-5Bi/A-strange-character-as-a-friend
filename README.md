@@ -14,5 +14,4 @@ Video dove interagisco con un personaggio creato da me, con Autodesk Maya
 2. Scegliere quello più soddisfacente e aggiustarlo
 
 #Cosa succede nel video?
-A_
-Videocamera frontale
+A_Videocamera frontale_
