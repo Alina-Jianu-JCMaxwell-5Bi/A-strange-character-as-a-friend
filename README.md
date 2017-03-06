@@ -1,4 +1,4 @@
-# A-strange-character-as-a-friend
+# A strange character as a friend
 Video dove interagisco con un personaggio creato da me.
 
 
@@ -20,10 +20,15 @@ Video dove interagisco con un personaggio creato da me.
 
 #Cosa succede nel video?
 1. 
-(Videocamera frontale)
-Compaiono 2 mani che mi danno una scatola, nel quale si trova un regalo.
-Tolgo il coperchio e guardo al suo interno.
-Scopro che c'è una pallina, ma abbastanza grande
+(Videocamera frontale)<br>
+Compaiono 2 mani che mi danno una scatola, nella quale si trova un regalo.<br>
+Tolgo il coperchio e guardo al suo interno.<br>
+Scopro che c'è una pallina, Bob, di diametro 12 cm, con delle grandi braccia e delle piccole ali.<br>
+Cerca di volare, ma non ce la fa utilizzando le ali e allora usa e braccia.<br>
+.......<br>
+Ad un certo punto gli dico di entrare in un foglio bianco perchè lo voglio aiutare. <br>
+Cancello le piccole ali e gli disegno un paio più grande.<br>
+Poi lo faccio volare via dal foglio.<br>
 
 ##Gestione del progetto
 100h: studio programmi + documentazione
