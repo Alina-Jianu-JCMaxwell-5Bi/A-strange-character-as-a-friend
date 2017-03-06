@@ -27,6 +27,7 @@ Scopro che c'è una pallina, ma abbastanza grande
 
 ##Gestione del progetto
 100h: studio programmi + documentazione
+<br>
 300h: lavoro totale impiegato 
 
 #Doppiatore
