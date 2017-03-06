@@ -16,8 +16,7 @@ Video dove interagisco con un personaggio creato da me.
 1. Disegnato il primo personaggio
 2. Modellazione personaggio
 
-## Personaggio
-
+## Personaggio in Maya
 
 #Cosa succede nel video?
 1. 
@@ -29,3 +28,7 @@ Scopro che c'è una pallina, ma abbastanza grande
 ##Gestione del progetto
 100h: studio programmi + documentazione
 300h: lavoro totale impiegato 
+
+#Doppiatore
+Gulmini Alessio
+
