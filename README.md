@@ -13,7 +13,8 @@ Video dove interagisco con un personaggio creato da me.
 3. Videocamera
 
 ##Stato progetto
-1. Ho disegnato il primo personaggio
+1. Disegnato il primo personaggio
+2. Modellazione personaggio
 
 ## Personaggio
 
@@ -25,3 +26,6 @@ Compaiono 2 mani che mi danno una scatola, nel quale si trova un regalo.
 Tolgo il coperchio e guardo al suo interno.
 Scopro che c'è una pallina, ma abbastanza grande
 
+##Gestione del progetto
+100h: studio programmi + documentazione
+300h: lavoro totale impiegato 
