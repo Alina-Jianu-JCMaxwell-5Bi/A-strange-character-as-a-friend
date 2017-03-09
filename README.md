@@ -35,7 +35,7 @@ Poi lo faccio volare via dal foglio.<br>
 1. PIANIFICAZIONE:
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
-            <br
+            <br>
             Ore complessive: 400
             <br>
             Ore al giorno: 4
@@ -45,10 +45,33 @@ Poi lo faccio volare via dal foglio.<br>
             Ore impiegate per la documentazione: 50
             <br>
       3. STIMA COSTI
+            <br>
+            Green Screen: 12e
+            <br>
+            Scatola/Regalo: 
+            <br>
+            Lavarier: 
+            <br>
       4. DEFINIZIONE PROPOSTA DI PROGETTO
       
 2. PROGETTAZIONE
       1. COSTITUZIONE DEL TEAM DI PROGETTO
+            <br>
+            1. Consulenti esterni specializzati: 
+                  <br>
+                  1. Professori:
+                        <br>
+                        1. Maiolati Stefania
+                        <br>
+                        2. Martone Mario
+                        <br>
+                        2. Palitto Matteo
+                        <br>
+                        
+                  2. Fornitori esterni:
+                        <br>
+                        1. Mio padre
+                        <br>
       2. PROGETTAZIONE ESECUTIVA
       3. SELEZIONE FORNITURA
       4. SELEZIONE FORNITORI
