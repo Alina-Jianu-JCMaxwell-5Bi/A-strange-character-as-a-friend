@@ -18,7 +18,7 @@ Video dove interagisco con un personaggio creato da me.
 
 ## Personaggio in Maya
 
-#Cosa succede nel video?
+#Copione
 1. 
 (Videocamera frontale)<br>
 Compaiono 2 mani che mi danno una scatola, nella quale si trova un regalo.<br>
@@ -31,6 +31,15 @@ Cancello le piccole ali e gli disegno un paio più grande.<br>
 Poi lo faccio volare via dal foglio.<br>
 
 ##Gestione del progetto
+<font color="blue">testo blu</font>
+
+
+
+
+
+
+
+
 100h: studio programmi + documentazione
 <br>
 300h: lavoro totale impiegato 
