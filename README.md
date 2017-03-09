@@ -72,6 +72,10 @@ Poi lo faccio volare via dal foglio.<br>
                         <br>
                         1. Mio padre
                         <br>
+                        
+                  3. Altri membri del team:
+                        <br>
+                        1. Gulmini Alessio
       2. PROGETTAZIONE ESECUTIVA
       3. SELEZIONE FORNITURA
       4. SELEZIONE FORNITORI
