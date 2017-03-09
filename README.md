@@ -46,7 +46,7 @@ Poi lo faccio volare via dal foglio.<br>
             <br>
       3. STIMA COSTI
             <br>
-            Green Screen: 12e
+            -Green Screen: 12e
             <br>
             Scatola/Regalo: 
             <br>
