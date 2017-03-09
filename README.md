@@ -31,11 +31,7 @@ Cancello le piccole ali e gli disegno un paio più grande.<br>
 Poi lo faccio volare via dal foglio.<br>
 
 ##Gestione del progetto
-<font color="blue">testo blu</font>
-
-
-
-
+<h1>ciao</h1>
 
 
 
