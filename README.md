@@ -67,12 +67,10 @@ Poi lo faccio volare via dal foglio.<br>
                         <br>
                         2. Palitto Matteo
                         <br>
-                        
                   2. Fornitori esterni:
                         <br>
                         1. Mio padre
                         <br>
-                        
                   3. Altri membri del team:
                         <br>
                         1. Gulmini Alessio
