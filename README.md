@@ -35,6 +35,14 @@ Poi lo faccio volare via dal foglio.<br>
 1. PIANIFICAZIONE:
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
+            Ore complessive: 400
+            <br>
+            Ore al giorno: 4
+            <br>
+            Ore impiegate per lo studio softwares utilizzati: 100
+            <br>
+            Ore impiegate per la documentazione: 50
+            <br>
       3. STIMA COSTI
       4. DEFINIZIONE PROPOSTA DI PROGETTO
       
@@ -64,11 +72,6 @@ Poi lo faccio volare via dal foglio.<br>
 5. REVISIONE FINALE
       1. MONITORAGGIO FINALE
       2. CHIUSURA DI PROGETTO
-
-
-100h: studio programmi + documentazione
-<br>
-300h: lavoro totale impiegato 
 
 #Doppiatore
 Gulmini Alessio
