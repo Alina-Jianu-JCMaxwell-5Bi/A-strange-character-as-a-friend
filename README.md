@@ -35,6 +35,7 @@ Poi lo faccio volare via dal foglio.<br>
 1. PIANIFICAZIONE:
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
+            <br
             Ore complessive: 400
             <br>
             Ore al giorno: 4
