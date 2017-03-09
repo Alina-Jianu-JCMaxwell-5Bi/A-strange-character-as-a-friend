@@ -36,9 +36,9 @@ Poi lo faccio volare via dal foglio.<br>
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
             <br>
-                              - Ore complessive: 400
+                              -Ore complessive: 400
             <br>
-                              - Ore al giorno: 4
+                              -Ore al giorno: 4
             <br>
                               - Ore impiegate per lo studio softwares utilizzati: 100
             <br>
