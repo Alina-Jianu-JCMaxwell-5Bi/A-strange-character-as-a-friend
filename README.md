@@ -36,17 +36,17 @@ Poi lo faccio volare via dal foglio.<br>
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
             <br>
-            Ore complessive: 400
+            -Ore complessive: 400
             <br>
-            Ore al giorno: 4
+            -Ore al giorno: 4
             <br>
-            Ore impiegate per lo studio softwares utilizzati: 100
+            -Ore impiegate per lo studio softwares utilizzati: 100
             <br>
-            Ore impiegate per la documentazione: 50
+            -Ore impiegate per la documentazione: 50
             <br>
       3. STIMA COSTI
             <br>
-            -Green Screen: 12e
+            Green Screen: 12e
             <br>
             Scatola/Regalo: 
             <br>
