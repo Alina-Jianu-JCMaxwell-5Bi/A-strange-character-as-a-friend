@@ -32,18 +32,13 @@ Poi lo faccio volare via dal foglio.<br>
 
 #Gestione del progetto
 
-1. PIANIFICAZIONE:
+####1. PIANIFICAZIONE:
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
-            
             - Ore complessive: 400
-            
             - Ore al giorno: 4
-            
             - Ore impiegate per lo studio softwares utilizzati: 100
-            
             - Ore impiegate per la documentazione: 50
-            
       3. STIMA COSTI
             <br>
             Green Screen: 12e
