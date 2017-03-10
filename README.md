@@ -32,67 +32,84 @@ Poi lo faccio volare via dal foglio.<br>
 
 #Gestione del progetto
 
+
 #### 1. PIANIFICAZIONE:
+
       1. ANALISI ESIGENZE
+      
       2. STIMA TEMPI
             - Ore complessive: 400
             - Ore al giorno: 4
             - Ore impiegate per lo studio softwares utilizzati: 100
             - Ore impiegate per la documentazione: 50
+            
       3. STIMA COSTI
-            <br>
-            Green Screen: 12e
-            <br>
-            Scatola/Regalo: 
-            <br>
-            Lavarier: 
-            <br>
+            - Green Screen: 12e
+            - Scatola/Regalo: 
+            - Lavarier: 
+         
       4. DEFINIZIONE PROPOSTA DI PROGETTO
       
-2. PROGETTAZIONE
-      1. COSTITUZIONE DEL TEAM DI PROGETTO
-            <br>
+      
+#### 2. PROGETTAZIONE:
+
+      1. COSTITUZIONE DEL TEAM DI PROGETTO:
             1. Consulenti esterni specializzati: 
-                  <br>
                   1. Professori:
-                        <br>
                         1. Maiolati Stefania
-                        <br>
                         2. Martone Mario
-                        <br>
                         2. Palitto Matteo
-                        <br>
+                        
                   2. Fornitori esterni:
-                        <br>
                         1. Mio padre
-                        <br>
+                        
                   3. Altri membri del team:
-                        <br>
                         1. Gulmini Alessio
-      2. PROGETTAZIONE ESECUTIVA
-      3. SELEZIONE FORNITURA
-      4. SELEZIONE FORNITORI
-      5. APPROVAZIONE BUDGET SPESA MATERIALI
+                        
+      2. PROGETTAZIONE ESECUTIVA:
       
-3. REALIZZAZIONE
-      1. SVILUPPO SOFTWARE PERSONALIZZATO
-      2. ACQUISIZIONE HARDWARE 
-      3. ACQUISIZIONE SOFTWARE
-      4. REALIZZAZIONE SOTTOINSIEMI
-      5. COLLAUDO DEL SISTEMA
+      3. SELEZIONE FORNITURA:
       
-4. DISPIEGAMENTO
-      1. REALIZZAZIONE MANUALI OPERATIVI
-      2.PREDISPOSIZIONE BANCHE DATI
-      3. FORMAZIONE OPERATORI
-      4. CONFIGURAZIONE PROCESSI 
-      5. CONFIGURAZIONE UTENTI
-      6. AVVIO ESERCIZIO
-      7. COLLAUDO OUTPUT DI PROGETTO
+      4. SELEZIONE FORNITORI:
       
-5. REVISIONE FINALE
-      1. MONITORAGGIO FINALE
-      2. CHIUSURA DI PROGETTO
+      5. APPROVAZIONE BUDGET SPESA MATERIALI:
+      
+      
+#### 3. REALIZZAZIONE:
+
+      1. SVILUPPO SOFTWARE PERSONALIZZATO:
+      
+      2. ACQUISIZIONE HARDWARE:
+      
+      3. ACQUISIZIONE SOFTWARE:
+      
+      4. REALIZZAZIONE SOTTOINSIEMI:
+      
+      5. COLLAUDO DEL SISTEMA:
+      
+      
+#### 4. DISPIEGAMENTO:
+
+      1. REALIZZAZIONE MANUALI OPERATIVI:
+      
+      2.PREDISPOSIZIONE BANCHE DATI:
+      
+      3. FORMAZIONE OPERATORI:
+      
+      4. CONFIGURAZIONE PROCESSI: 
+      
+      5. CONFIGURAZIONE UTENTI:
+      
+      6. AVVIO ESERCIZIO:
+      
+      7. COLLAUDO OUTPUT DI PROGETTO:
+      
+      
+#### 5. REVISIONE FINALE:
+
+      1. MONITORAGGIO FINALE:
+      
+      2. CHIUSURA DI PROGETTO:
 
 #Doppiatore
 Gulmini Alessio
