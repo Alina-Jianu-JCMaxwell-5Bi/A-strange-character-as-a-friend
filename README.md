@@ -30,25 +30,24 @@ Ad un certo punto gli dico di entrare in un foglio bianco perchè lo voglio aiut
 Cancello le piccole ali e gli disegno un paio più grande.<br>
 Poi lo faccio volare via dal foglio.<br>
 
-#Gestione del progetto
-
+## Gestione del progetto
 
 #### 1. PIANIFICAZIONE:
 
-      1. ANALISI ESIGENZE
+      1. ANALISI ESIGENZE:
       
-      2. STIMA TEMPI
+      2. STIMA TEMPI:
             - Ore complessive: 400
             - Ore al giorno: 4
             - Ore impiegate per lo studio softwares utilizzati: 100
             - Ore impiegate per la documentazione: 50
             
-      3. STIMA COSTI
+      3. STIMA COSTI:
             - Green Screen: 12e
             - Scatola/Regalo: 
             - Lavarier: 
          
-      4. DEFINIZIONE PROPOSTA DI PROGETTO
+      4. DEFINIZIONE PROPOSTA DI PROGETTO:
       
       
 #### 2. PROGETTAZIONE:
