@@ -12,13 +12,13 @@ Video dove interagisco con un personaggio creato da me.
 2. Lavarier
 3. Videocamera
 
-##Stato progetto
+## Stato progetto
 1. Disegnato il primo personaggio
 2. Modellazione personaggio
 
 ## Personaggio in Maya
 
-#Copione
+## Copione
 1. 
 (Videocamera frontale)<br>
 Compaiono 2 mani che mi danno una scatola, nella quale si trova un regalo.<br>
@@ -32,7 +32,7 @@ Poi lo faccio volare via dal foglio.<br>
 
 #Gestione del progetto
 
-####1. PIANIFICAZIONE:
+#### 1. PIANIFICAZIONE:
       1. ANALISI ESIGENZE
       2. STIMA TEMPI
             - Ore complessive: 400
