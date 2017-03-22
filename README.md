@@ -17,6 +17,7 @@ Video dove interagisco con un personaggio creato da me.
 * Modellazione personaggio
 
 ## Personaggio in Maya
+a
 
 ## Copione
 1. 
@@ -29,7 +30,6 @@ Cerca di volare, ma non ce la fa utilizzando le ali e allora usa e braccia.<br>
 Ad un certo punto gli dico di entrare in un foglio bianco perchè lo voglio aiutare. <br>
 Cancello le piccole ali e gli disegno un paio più grande.<br>
 Poi lo faccio volare via dal foglio.<br>
-
 
 ## Doppiatore
 Gulmini Alessio
