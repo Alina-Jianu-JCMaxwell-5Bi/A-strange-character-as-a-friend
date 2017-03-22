@@ -3,8 +3,8 @@ Video dove interagisco con un personaggio creato da me.
 
 
 ## Programmi utilizzati
-1. Maya
-2. After Effects CS5
+* Maya
++ After Effects CS5
 3. Camtasia Studio
 
 ## Materiali utlizzati 
