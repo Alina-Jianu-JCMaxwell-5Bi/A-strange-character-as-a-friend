@@ -5,16 +5,16 @@ Video dove interagisco con un personaggio creato da me.
 ## Programmi utilizzati
 * Maya
 * After Effects CS5
-3. Camtasia Studio
+* Camtasia Studio
 
 ## Materiali utlizzati 
-1. Green Screen
-2. Lavarier
-3. Videocamera
+1.* Green Screen
+2.* Lavarier
+3.* Videocamera
 
 ## Stato progetto
-1. Disegnato il primo personaggio
-2. Modellazione personaggio
+1.* Disegnato il primo personaggio
+2.* Modellazione personaggio
 
 ## Personaggio in Maya
 
