@@ -20,14 +20,6 @@ Video dove interagisco con un personaggio creato da me.
 
 #### 1. PIANIFICAZIONE:
 
-      PI.1. ANALISI ESIGENZE:
-      
-      PI.2. STIMA TEMPI:
-            - Ore complessive: 400
-            - Ore al giorno: 4
-            - Ore impiegate per lo studio softwares utilizzati: 100
-            - Ore impiegate per la documentazione: 50
-
 Creazione del personaggio:<br>
     
     C.1 Corpo:
