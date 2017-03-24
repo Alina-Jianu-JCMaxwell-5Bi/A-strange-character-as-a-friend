@@ -17,10 +17,40 @@ Video dove interagisco con un personaggio creato da me.
 * Modellazione personaggio
 
 ## Personaggio in Maya
-a
+Creazione del personaggio:
+    1. Corpo:
+      1.1. Colorazione
+    2. Naso:
+      2.1. Colorazione 
+    3. Bocca:
+      3.1 Lingua
+      3.3 Denti
+      3.2 Colorazione lingua
+      3.4 Colorazione denti
+    4. Occhio sinistro:
+      4.1 Pupilla
+    5. Occhio destro:
+      5.1 Pupilla
+    6. Sopraciglia sinistra:
+    7. Sopraciglia destra:
+    8. Braccia:
+    9. Mani:
+    10. Ali:
+
 
 ## Copione
-1. 
+####Scena 1:
+Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as a friend".
+La telecamera, però mi filma in modo che non si veda.
+
+####Scena 2:
+La videocamera è nella stessa posizione.
+
+
+
+
+
+
 (Videocamera frontale)<br>
 Compaiono 2 mani che mi danno una scatola, nella quale si trova un regalo.<br>
 Tolgo il coperchio e guardo al suo interno.<br>
