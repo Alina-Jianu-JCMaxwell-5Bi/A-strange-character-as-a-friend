@@ -19,11 +19,11 @@ Video dove interagisco con un personaggio creato da me.
 ## Personaggio in Maya
 Creazione del personaggio:<br>
     1. Corpo:<br>
-      1.1. Colorazione<br>
+        1.1. Colorazione<br>
     2. Naso:<br>
       2.1. Colorazione <br>
     3. Bocca:<br>
-      3.1 Lingua<br>
+        3.1 Lingua<br>
       3.3 Denti<br>
       3.2 Colorazione lingua<br>
       3.4 Colorazione denti<br>
