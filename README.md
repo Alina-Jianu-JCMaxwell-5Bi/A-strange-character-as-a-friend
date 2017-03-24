@@ -1,5 +1,5 @@
 # A strange character as a friend
-Video dove interagisco con un personaggio creato da me.
+Video dove interagisco con un personaggio modellato e animato in Maya.
 
 
 ## Programmi utilizzati
@@ -13,7 +13,7 @@ Video dove interagisco con un personaggio creato da me.
 * Videocamera
 
 ## Stato progetto
-* Disegnato il primo personaggio
+* Disegnato il personaggio
 * Modellazione personaggio
 
 ## Personaggio in Maya
@@ -62,7 +62,13 @@ Creazione del personaggio:<br>
         C.5.1. Modellazione
         C.5.2. Colorazione
         
-    C.8. Braccia:
+    C.8. Braccio destro:
+        C.5.1. Modellazione braccio
+        C.5.5. Colorazione braccio
+        
+    C.9. Braccio destro:
+        C.5.1. Modellazione braccio
+        C.5.5. Colorazione braccio
     
     C.9. Mani:
     
