@@ -17,25 +17,64 @@ Video dove interagisco con un personaggio creato da me.
 * Modellazione personaggio
 
 ## Personaggio in Maya
+
+#### 1. PIANIFICAZIONE:
+
+      PI.1. ANALISI ESIGENZE:
+      
+      PI.2. STIMA TEMPI:
+            - Ore complessive: 400
+            - Ore al giorno: 4
+            - Ore impiegate per lo studio softwares utilizzati: 100
+            - Ore impiegate per la documentazione: 50
+
 Creazione del personaggio:<br>
-    1. Corpo:<br>
-        1.1. Colorazione<br>
-    2. Naso:<br>
-      2.1. Colorazione <br>
-    3. Bocca:<br>
-        3.1 Lingua<br>
-      3.3 Denti<br>
-      3.2 Colorazione lingua<br>
-      3.4 Colorazione denti<br>
-    4. Occhio sinistro:<br>
-      4.1 Pupilla<br>
-    5. Occhio destro:<br>
-      5.1 Pupilla<br>
-    6. Sopraciglia sinistra:<br>
-    7. Sopraciglia destra:<br>
-    8. Braccia:<br>
-    9. Mani:<br>
-    10. Ali:<br>
+    
+    C.1 Corpo:
+        C.1.1. Modellazione
+        C.1.2. Colorazione
+        
+    C.2. Naso:
+        C.1.1. Modellazione
+        C.2.2. Colorazione 
+        
+    C.3. Bocca:
+        C.3.1. Modellazione bocca
+        C.3.2. Modellazione lingua
+        C.3.3. Modellazione denti
+        C.3.4. Colorazione bocca
+        C.3.5. Colorazione lingua
+        C.3.6. Colorazione denti
+        
+    C.4. Occhio sinistro:
+        C.4.1. Modellazione occhio
+        C.4.2. Modellazione pupilla
+        C.4.3. Modellazione occhio
+        C.4.4. Modellazione pupilla
+        C.4.5. Colorazione occhio
+        C.4.6. Colorazione pupilla
+        
+    C.5. Occhio destro:
+        C.5.1. Modellazione occhio
+        C.5.2. Modellazione pupilla
+        C.5.3. Modellazione occhio
+        C.5.4. Modellazione pupilla
+        C.5.5. Colorazione occhio
+        C.5.6. Colorazione pupilla
+        
+    C.6. Sopraciglia sinistra:
+        C.6.1. Modellazione
+        C.6.2. Colorazione
+    
+    C.7. Sopraciglia destra:
+        C.5.1. Modellazione
+        C.5.2. Colorazione
+        
+    C.8. Braccia:
+    
+    C.9. Mani:
+    
+    C.10. Ali:
 
 
 ## Copione
