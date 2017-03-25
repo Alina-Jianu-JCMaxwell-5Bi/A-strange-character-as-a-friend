@@ -17,7 +17,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 * Modellazione personaggio
 
 ## Personaggio in Maya
-Creazione del personaggio:<br>
+#### Creazione del personaggio:
     
     C.1 Corpo:
         C.1.1. Modellazione
@@ -71,26 +71,24 @@ Creazione del personaggio:<br>
     
     C.10. Ali:
 
+#### Dimensione del personaggio:
+    * Diametro: 12cm
 
 ## Copione
-#### Scena 1:<br>
-Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as<br> a friend".
-La telecamera, però mi filma in modo che non si veda.<br><br>
+#### Scena 1:
+Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as a friend".
+La telecamera, però mi filma in modo che non si veda.<br>
 
 #### Scena 2:<br>
-La videocamera è nella stessa posizione.
+La videocamera è nella stessa posizione.<br>
+Da dietro la videocamera compaiono due braccia che mi danno una scatola regalo.<br>
+La apro, guardo al suo interno e rimango sorpresa.<br>
+Allora lascio la scatola sulla scrivania e mostro il foglio al quale stavo lavorando alla telecamera<br>
+(guardando la telecamera / guardando la persona dietro la telecamera)<br>
+La pallina balza dalla scatola e vola per un po' sopra la scatola<br>
 
 
-
-
-
-
-(Videocamera frontale)<br>
-Compaiono 2 mani che mi danno una scatola, nella quale si trova un regalo.<br>
-Tolgo il coperchio e guardo al suo interno.<br>
-Scopro che c'è una pallina, Bob, di diametro 12 cm, con delle grandi braccia e delle piccole ali.<br>
 Cerca di volare, ma non ce la fa utilizzando le ali e allora usa e braccia.<br>
-.......<br>
 Ad un certo punto gli dico di entrare in un foglio bianco perchè lo voglio aiutare. <br>
 Cancello le piccole ali e gli disegno un paio più grande.<br>
 Poi lo faccio volare via dal foglio.<br>
