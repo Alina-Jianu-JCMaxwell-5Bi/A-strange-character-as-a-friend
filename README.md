@@ -17,9 +17,6 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 * Modellazione personaggio
 
 ## Personaggio in Maya
-
-#### 1. PIANIFICAZIONE:
-
 Creazione del personaggio:<br>
     
     C.1 Corpo:
@@ -76,11 +73,11 @@ Creazione del personaggio:<br>
 
 
 ## Copione
-####Scena 1:<br>
+#### Scena 1:<br>
 Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as<br> a friend".
 La telecamera, però mi filma in modo che non si veda.<br><br>
 
-####Scena 2:<br>
+#### Scena 2:<br>
 La videocamera è nella stessa posizione.
 
 
