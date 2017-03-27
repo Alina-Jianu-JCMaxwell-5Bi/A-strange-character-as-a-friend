@@ -16,6 +16,11 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 * Disegnato il personaggio
 * Modellazione personaggio
 
+## Tempo impiegato
+* w
+            - Ore impiegate per lo studio softwares utilizzati: 100
+            - Ore impiegate per la documentazione: 50
+
 ## Personaggio in Maya
 ### Creazione del personaggio:
     
@@ -72,7 +77,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 #### C.10. Ali:
 
 #### Dimensione del personaggio:
-    * Diametro: 12cm
+* Diametro: 12cm
 
 ## Copione
 #### Scena 1:
