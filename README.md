@@ -19,7 +19,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 ## Personaggio in Maya
 ### Creazione del personaggio:
     
-    ## C.1 Corpo:
+## C.1 Corpo:
         C.1.1. Modellazione
         C.1.2. Colorazione
         
