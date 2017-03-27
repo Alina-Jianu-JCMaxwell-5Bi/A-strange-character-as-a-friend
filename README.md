@@ -27,7 +27,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
         C.1.1. Modellazione
         C.2.2. Colorazione 
         
-    C.3. Bocca:
+#### C.3. Bocca:
         C.3.1. Modellazione bocca
         C.3.2. Modellazione lingua
         C.3.3. Modellazione denti
@@ -35,7 +35,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
         C.3.5. Colorazione lingua
         C.3.6. Colorazione denti
         
-    C.4. Occhio sinistro:
+#### C.4. Occhio sinistro:
         C.4.1. Modellazione occhio
         C.4.2. Modellazione pupilla
         C.4.3. Modellazione occhio
@@ -43,7 +43,7 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
         C.4.5. Colorazione occhio
         C.4.6. Colorazione pupilla
         
-    C.5. Occhio destro:
+#### C.5. Occhio destro:
         C.5.1. Modellazione occhio
         C.5.2. Modellazione pupilla
         C.5.3. Modellazione occhio
@@ -51,25 +51,25 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
         C.5.5. Colorazione occhio
         C.5.6. Colorazione pupilla
         
-    C.6. Sopraciglia sinistra:
+#### C.6. Sopraciglia sinistra:
         C.6.1. Modellazione
         C.6.2. Colorazione
     
-    C.7. Sopraciglia destra:
+#### C.7. Sopraciglia destra:
         C.5.1. Modellazione
         C.5.2. Colorazione
         
-    C.8. Braccio destro:
+#### C.8. Braccio destro:
         C.5.1. Modellazione braccio
         C.5.5. Colorazione braccio
         
-    C.9. Braccio destro:
+#### C.9. Braccio destro:
         C.5.1. Modellazione braccio
         C.5.5. Colorazione braccio
     
-    C.9. Mani:
+#### C.9. Mani:
     
-    C.10. Ali:
+#### C.10. Ali:
 
 #### Dimensione del personaggio:
     * Diametro: 12cm
