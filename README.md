@@ -102,24 +102,19 @@ Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare
 Da dietro la videocamera compaiono due braccia che mi danno una scatola regalo.<br>
 La apro, guardo al suo interno e rimango sorpresa.<br>
 Allora mi sposto leggermente in modo si capisca cosa c'è scritto sul foglio sulla scrivania.<br>
-*Durante quest' ultima azione, la camera cambia visuale leggermente più a destra*<br
+*Durante quest' ultima azione, la camera cambia visuale leggermente più a destra*<br>
 (guardando la telecamera / guardando la persona dietro la telecamera)<br>
-
 #### Scena 2:
 La pallina a questo punto balza dalla scatola e vola per un po' sopra la scatola<br>
 Non avendo le ali in proporzione al corpo, vola a fatica, allora inizia ad usare le braccia<br>
-
 #### Scena 3:
 Mi fa pena e allora gli chiedo se lo posso aiutare.<br>
 Fa cenno di si con la testa.<br>
-
 #### Scena 4:
 Poggio la scatola sulla scrivania e prendo un foglio grande da sotto il piano di lavoro della scrivania.<br>
 Prendo una matita e una gomma.<br>
-
 #### Scena 5:
 Gli dico di entrare nel foglio e allora lui si butta.<br>
-
 #### Scena 6:
 A questo punto diventa un disegno, in 2D.<br>
 Cancello le piccole ali e gli disegno un paio più grande poi lo faccio volare via dal foglio.<br>
