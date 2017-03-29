@@ -95,7 +95,7 @@ Ore impiegate per lo studio softwares utilizzati:
 ## Copione
 #### Scena 1:
 Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as a friend".
-La telecamera, però mi filma in modo che non si veda.<br>
+*La telecamera, però mi filma in modo che non si veda.*<br>
 
 #### Scena 2:
 La videocamera è nella stessa posizione.<br>
