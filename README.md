@@ -6,18 +6,24 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 * Maya
 * After Effects CS5
 * Camtasia Studio
+* Photoshop
 
 ## Materiali utlizzati 
 * Green Screen
 * Lavarier
 * Videocamera
+* Microfono
 
 ## Stato progetto
 * Disegnato il personaggio
 * Modellazione personaggio
 
 ## Tempo impiegato
-* Ore impiegate per lo studio softwares utilizzati: 100
+* Ore impiegate per lo studio softwares utilizzati: 
+
+        * Maya:
+        * After Effects CS5:
+        
 * Ore impiegate per la documentazione: 50
 
 ## Personaggio in Maya
