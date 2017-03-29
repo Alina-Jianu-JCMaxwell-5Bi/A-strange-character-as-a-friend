@@ -98,10 +98,11 @@ Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare
 *La telecamera, però mi filma in modo che non si veda.*<br>
 
 #### Scena 2:
-La videocamera è nella stessa posizione.<br>
+*La videocamera è nella stessa posizione.*<br>
 Da dietro la videocamera compaiono due braccia che mi danno una scatola regalo.<br>
 La apro, guardo al suo interno e rimango sorpresa.<br>
-Allora mi sposto leggermente in modo si capisca cosa c'è scritto sul foglio sulla scrivania.br>
+Allora mi sposto leggermente in modo si capisca cosa c'è scritto sul foglio sulla scrivania.<br>
+*Durante quest' ultima azione, la camera cambia visuale leggermente più a destra*<br
 (guardando la telecamera / guardando la persona dietro la telecamera)<br>
 
 #### Scena 2:
@@ -123,6 +124,6 @@ Gli dico di entrare nel foglio e allora lui si butta.<br>
 A questo punto diventa un disegno, in 2D.<br>
 Cancello le piccole ali e gli disegno un paio più grande poi lo faccio volare via dal foglio.<br>
 
-## Doppiatore
+## Doppiatore Bob
 Gulmini Alessio
 
