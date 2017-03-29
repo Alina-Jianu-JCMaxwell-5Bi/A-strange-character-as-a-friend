@@ -19,10 +19,12 @@ Video dove interagisco con un personaggio modellato e animato in Maya.
 * Modellazione personaggio
 
 ## Tempo impiegato
-* Ore impiegate per lo studio softwares utilizzati: 
- * Maya: 20
- * After Effects CS5: 0
- * Ore impiegate per la documentazione: 14
+
+Ore impiegate per lo studio softwares utilizzati: 
+
+        1. Maya: 20
+        2. After Effects CS5: 0
+        3. Ore impiegate per la documentazione: 14
 
 ## Personaggio in Maya
 ### Creazione del personaggio:
