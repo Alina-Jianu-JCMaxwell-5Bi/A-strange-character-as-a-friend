@@ -73,12 +73,20 @@ Ore impiegate per lo studio softwares utilizzati:
         C.5.1. Modellazione braccio
         C.5.5. Colorazione braccio
         
-#### C.9. Braccio destro:
+#### C.9. Braccio sinistra:
         C.5.1. Modellazione braccio
         C.5.5. Colorazione braccio
     
-#### C.9. Mani:
-    
+#### C.9. Mano destra:
+        C.9.1. Modellazione palmo
+        C.9.2. Modellazione dita
+        C.9.3. Colorazione mano
+
+#### C.9. Mano sinistra:
+        C.9.1. Modellazione palmo
+        C.9.2. Modellazione dita
+        C.9.3. Colorazione mano
+
 #### C.10. Ali:
 
 #### Dimensione del personaggio:
@@ -89,19 +97,31 @@ Ore impiegate per lo studio softwares utilizzati:
 Sono seduta alla scrivania, di spalle alla telecamera, e sto finendo di colorare il foglio sul quale c'è scritto "A strange character as a friend".
 La telecamera, però mi filma in modo che non si veda.<br>
 
-#### Scena 2:<br>
+#### Scena 2:
 La videocamera è nella stessa posizione.<br>
 Da dietro la videocamera compaiono due braccia che mi danno una scatola regalo.<br>
 La apro, guardo al suo interno e rimango sorpresa.<br>
-Allora lascio la scatola sulla scrivania e mostro il foglio al quale stavo lavorando alla telecamera<br>
+Allora mi sposto leggermente in modo si capisca cosa c'è scritto sul foglio sulla scrivania.br>
 (guardando la telecamera / guardando la persona dietro la telecamera)<br>
-La pallina balza dalla scatola e vola per un po' sopra la scatola<br>
 
+#### Scena 2:
+La pallina a questo punto balza dalla scatola e vola per un po' sopra la scatola<br>
+Non avendo le ali in proporzione al corpo, vola a fatica, allora inizia ad usare le braccia<br>
 
-Cerca di volare, ma non ce la fa utilizzando le ali e allora usa e braccia.<br>
-Ad un certo punto gli dico di entrare in un foglio bianco perchè lo voglio aiutare. <br>
-Cancello le piccole ali e gli disegno un paio più grande.<br>
-Poi lo faccio volare via dal foglio.<br>
+#### Scena 3:
+Mi fa pena e allora gli chiedo se lo posso aiutare.<br>
+Fa cenno di si con la testa.<br>
+
+#### Scena 4:
+Poggio la scatola sulla scrivania e prendo un foglio grande da sotto il piano di lavoro della scrivania.<br>
+Prendo una matita e una gomma.<br>
+
+#### Scena 5:
+Gli dico di entrare nel foglio e allora lui si butta.<br>
+
+#### Scena 6:
+A questo punto diventa un disegno, in 2D.<br>
+Cancello le piccole ali e gli disegno un paio più grande poi lo faccio volare via dal foglio.<br>
 
 ## Doppiatore
 Gulmini Alessio
