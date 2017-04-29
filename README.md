@@ -3,11 +3,12 @@ Questo progetto consiste in un video Video nel quale avviene l' interazione tra 
 
 
 ## Tutor
-Professor Matteo Palitto       (TPSIT)<br>
-Professor Di Matteo Pietro     (GPOI)<br>
-Professor Giannotta Antonio    (GPOI)<br>
-Professor Martone Mario        (TPSIT e Informatica)<br>
-Professor Maiolati Stefania    (Informatica)<br>
+Professor Matteo Palitto             (TPSIT)<br>
+Professor Di Matteo Pietro           (GPOI)<br>
+Professor Giannotta Antonio          (GPOI)<br>
+Professor Martone Mario              (TPSIT e Informatica)<br>
+Professor Maiolati Stefania          (Informatica)<br>
+
 
 ## Collaboratori progetto
 ### Doppiatore Bob
@@ -17,5 +18,3 @@ Gulmini Alessio<br>
 Stropiana Alessandro<br>
 Ragusa Daniel<br>
 Gulmini Alessio<br>
-
-prova
