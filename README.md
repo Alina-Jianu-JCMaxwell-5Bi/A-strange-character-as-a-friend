@@ -17,5 +17,3 @@ Gulmini Alessio<br>
 Stropiana Alessandro<br>
 Ragusa Daniel<br>
 Gulmini Alessio<br>
-
-prova
