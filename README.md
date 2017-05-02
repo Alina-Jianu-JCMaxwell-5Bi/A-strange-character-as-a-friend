@@ -11,11 +11,13 @@ Per visionare il video bisogna essere in possesso di un software per la riproduz
 #### VLC Media Player:
 Caratteristiche:
   1. Supporta qualsiasi formato video e audio
-  2. lettore video leggero, che si adatta a qualsiasi computer
-  3. l' interfaccia offre un utilizzo pratico e veloce, nonostante sia piuttosto scarna
-  4. capace anche di riparare file corrotti.
+  2. E' leggero
+  3. Si adatta a qualsiasi computer
+  4. Ha la capacità di riparare file corrotti
+  5. L' interfaccia offre un utilizzo pratico e veloce, nonostante sia piuttosto scarna
 
 #### Windows Media Player:
+Caratteristiche:
 è lo storico lettore offerto da Microsoft e preinstallato in qualunque computer dotato di Windows; offre una discreta gestione delle librerie musicali e se la cava come lettore video a patto di aver installato i codec essenziali. L’interfaccia col tempo è diventata più intuitiva e gradevole, con un design più accattivante; un lettore video quindi discreto, che fa il suo dovere e capace di leggere buona parte dei formati video più diffusi.
 
 #### Zoom Player:
