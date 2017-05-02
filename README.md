@@ -61,11 +61,11 @@ Per installare uno di questi software bisogna andare sulla pagina contenente il 
 2. Aprire il file video "A strange character as a friend"
 
 ## Tutor
-TPSIT                 -   Professor Matteo Palitto           
-GPOI                  -   Professor Di Matteo Pietro           
-GPOI                  -   Professor Giannotta Antonio          
-TPSIT e Informatica   -   Professor Martone Mario         
-Informatica           -   Professor Maiolati Stefania          
+Professor Matteo Palitto (#### TPSIT)       
+Professor Di Matteo Pietro (GPOI)           
+Professor Giannotta Antonio (GPOI)          
+Professor Martone Mario (TPSIT e Informatica)         
+Professor Maiolati Stefania (Informatica)          
 
 
 ## Collaboratori progetto
