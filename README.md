@@ -53,12 +53,15 @@ Caratteristiche:
   4. Ha la capacità di riparare file corrotti
   5. L' interfaccia offre un utilizzo pratico e veloce, nonostante sia piuttosto scarna
 
+Per installare uno di questi software bisogna andare sulla pagina contenente il file da scaricare e procedere con l'installazione.
 
 ## Manuale d'uso
-Mac OS è stato il sistema operativo di Apple dedicato ai computer Macintosh
+1. Assicurarsi di avere installato almeno un software per la lettura e la riproduzione di file audio e video, in base al sistema     
+   operativo utilizzato
+2. Aprire il file video "A strange character as a friend"
 
 ## Tutor
-Professor Matteo Palitto             (TPSIT)<br>
+Professor Matteo Palitto            (TPSIT)<br>
 Professor Di Matteo Pietro           (GPOI)<br>
 Professor Giannotta Antonio          (GPOI)<br>
 Professor Martone Mario              (TPSIT e Informatica)<br>
