@@ -9,7 +9,11 @@ Per visionare il video bisogna essere in possesso di un software per la riproduz
 ### PER WINDOWS:
 
 #### VLC Media Player:
-è uno dei lettori video gratuiti più famosi e diffusi; è utilizzato da moltissimi utenti perché supporta praticamente qualsiasi formato video e audio. Disponibile anche in lingua italiana, VLC si contraddistingue anche per molte opzioni, anche avanzate, per supportare qualunque formato e per essere un lettore video leggero, che si adatta a qualsiasi computer; l’unica pecca che può presentare è una interfaccia ancora un po’ scarna, non delle migliori insomma, un po’ spartana ma che offre comunque un ottimo utilizzo, pratico e veloce. In linea generale quindi, un ottimo lettore video, pronto a tutto, capace anche di riparare file corrotti.
+Caratteristiche:
+  1. Supporta qualsiasi formato video e audio
+  2. lettore video leggero, che si adatta a qualsiasi computer
+  3. l' interfaccia offre un utilizzo pratico e veloce, nonostante sia piuttosto scarna
+  4. capace anche di riparare file corrotti.
 
 #### Windows Media Player:
 è lo storico lettore offerto da Microsoft e preinstallato in qualunque computer dotato di Windows; offre una discreta gestione delle librerie musicali e se la cava come lettore video a patto di aver installato i codec essenziali. L’interfaccia col tempo è diventata più intuitiva e gradevole, con un design più accattivante; un lettore video quindi discreto, che fa il suo dovere e capace di leggere buona parte dei formati video più diffusi.
@@ -41,6 +45,8 @@ Se state cercando un lettore multimediale completo probabilmente avrete incontra
 
 ### PER APPLE:
 
+#### VLC Media Player:
+è uno dei lettori video gratuiti più famosi e diffusi; è utilizzato da moltissimi utenti perché supporta praticamente qualsiasi formato video e audio. Disponibile anche in lingua italiana, VLC si contraddistingue anche per molte opzioni, anche avanzate, per supportare qualunque formato e per essere un lettore video leggero, che si adatta a qualsiasi computer; l’unica pecca che può presentare è una interfaccia ancora un po’ scarna, non delle migliori insomma, un po’ spartana ma che offre comunque un ottimo utilizzo, pratico e veloce. In linea generale quindi, un ottimo lettore video, pronto a tutto, capace anche di riparare file corrotti.
 ## Manuale d'uso
 
 
