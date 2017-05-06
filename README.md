@@ -65,7 +65,7 @@ Professor Matteo Palitto (TPSIT)
 Professor Di Matteo Pietro (GPOI)           
 Professor Giannotta Antonio (GPOI)          
 Professor Martone Mario (TPSIT e Informatica)         
-Professor Maiolati Stefania (Informatica)          
+Professoressa Maiolati Stefania (Informatica)          
 
 
 ## Collaboratori progetto
@@ -73,6 +73,9 @@ Professor Maiolati Stefania (Informatica)
 Gulmini Alessio<br>
 
 ### Gruppo di supporto
-Stropiana Alessandro<br>
-Ragusa Daniel<br>
+Caria Federico<br>
 Gulmini Alessio<br>
+
+-------------------------
+| Jianu Alina Nicoleta  |
+-------------------------
