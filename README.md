@@ -76,9 +76,9 @@ Gulmini Alessio<br>
 Caria Federico<br>
 Gulmini Alessio<br>
 
-
+<br>
 -------------------------
-
-<h6> Jianu Alina Nicoleta  </h6>
+<br>
+<h6> Jianu Alina Nicoleta </h6>
 
 
