@@ -78,6 +78,6 @@ Gulmini Alessio<br>
 
 
 -------------------------
- Jianu Alina Nicoleta  
+\ Jianu Alina Nicoleta  \
 -------------------------
 
